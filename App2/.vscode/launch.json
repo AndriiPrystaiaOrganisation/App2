@@ -17,6 +17,13 @@
                                "name":  "Cloud Sandbox (qa)",
                                "environmentType":  "Sandbox",
                                "environmentName":  "qa"
+                           },
+                           {
+                               "type":  "al",
+                               "request":  "launch",
+                               "name":  "Cloud Sandbox (test)",
+                               "environmentType":  "Sandbox",
+                               "environmentName":  "test"
                            }
                        ]
 }
