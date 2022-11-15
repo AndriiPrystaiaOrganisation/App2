@@ -1,5 +1,6 @@
 {
     "type":  "PTE",
     "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main",
-    "environments": ["QA"]
+    "environments": ["QA","TEST (FAT)"],
+    "TEST_AuthContextSecretName": "QA_Authcontext"
 }
